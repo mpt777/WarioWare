@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/mptay/source/repos/Midterm/Midterm/Content/File.spritefont","C:/Users/mptay/source/repos/Midterm/Midterm/Content/bin/DesktopGL/Content/arial.xnb","FontDescriptionProcessor","SpriteFontContent",2068,70687,0.1746724
+"C:/Users/mptay/source/repos/Midterm/Midterm/Content/Images/hammock.jpg","C:/Users/mptay/source/repos/Midterm/Midterm/Content/bin/DesktopGL/Content/Images/hammock.xnb","TextureProcessor","Texture2DContent",339865,19660885,0.5374358
+"C:/Users/mptay/source/repos/Midterm/Midterm/Content/Images/sunset.jfif","C:/Users/mptay/source/repos/Midterm/Midterm/Content/bin/DesktopGL/Content/Images/sunset.xnb","TextureProcessor","Texture2DContent",226074,6000085,0.2618416
+"C:/Users/mptay/source/repos/Midterm/Midterm/Content/Images/sunset2.jpg","C:/Users/mptay/source/repos/Midterm/Midterm/Content/bin/DesktopGL/Content/Images/sunset2.xnb","TextureProcessor","Texture2DContent",153829,2250085,0.1535104
